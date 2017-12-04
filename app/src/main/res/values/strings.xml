@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">SuryaNamaskarYajna</string>
+    <string-array name="menu_names">
+        <item>Do surya namaskars</item>
+        <item>Add surya namaskar counts</item>
+        <item>Add family member</item>
+        <item>Reports and tools</item>
+        <item>Need Help?</item>
+    </string-array>
+    <string-array name="age_array">
+        <item>0-12</item>
+        <item>13-19</item>
+        <item>20-35</item>
+        <item>36-50</item>
+        <item>50+</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>United States</item>
+        <item>India</item>
+    </string-array>
+    <string-array name="sn_help_menu">
+        <item>Surya namaskar audio</item>
+        <item>Surya namaskar mantra meaning</item>
+        <item>More information</item>
+    </string-array>
+    <string-array name="sn_mantra">
+        <item>Om Mitraaya Namah</item>
+        <item>Om Ravaye Namah</item>
+        <item>Om Suryaaya Namah</item>
+        <item>Om Bhaanave Namah</item>
+        <item>Om Khagaaya Namah</item>
+        <item>Om Puushne Namah</item>
+        <item>Om Hiranyagarbhaaya Namah</item>
+        <item>Om Mareechaye Namah</item>
+        <item>Om Aadityaaya Namah</item>
+        <item>Om Savitre Namah</item>
+        <item>Om Arkaaya Namah</item>
+        <item>Om Bhaaskaraaya Namah</item>
+    </string-array>
+    <string-array name="sn_mantra_meaning">
+        <item>Prostration to Him who is affectionate to all.</item>
+        <item>Prostration to Him who is the cause for change.</item>
+        <item>Prostration to Him who induces activity.</item>
+        <item>Prostration to Him who diffuses Light.</item>
+        <item>Prostration to Him who moves in the sky.</item>
+        <item>Prostration to Him who nourishes all.</item>
+        <item>Prostration to Him who contains everything.</item>
+        <item>Prostration to Him who possesses rays.</item>
+        <item>Prostration to Him who is god of Gods.</item>
+        <item>Prostration to Him who produces everything.</item>
+        <item>Prostration to Him who is fit to be worshipped.</item>
+        <item>Prostration to Him who is the cause of lustre.</item>
+    </string-array>
+    <string-array name="person_name">
+        <item>Prasad Khandat</item>
+        <item>Mrugesh Patel</item>
+    </string-array>
+</resources>
